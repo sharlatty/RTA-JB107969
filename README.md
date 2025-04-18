@@ -6,6 +6,8 @@
 
 (w terminalu)  python app.py
 
+Do zatrzymania - Ctrl + C
+
 ## Pliki projektu
 app.py - główna aplikacja
 program1.py, program2.py, program3.py - pozostałe zadania
