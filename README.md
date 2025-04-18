@@ -1,8 +1,8 @@
 # Laboratorium 1-2 - API decyzyjne
 
 ## Uruchomienie
-1. Zainstaluj zależności:
-   pip install -r requirements.txt
+Zainstaluj zależności:
+pip install -r requirements.txt
 
 (w terminalu)  python app.py
 
